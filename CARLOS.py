@@ -5,7 +5,7 @@ import numpy as np
 from plotly import express as px
 from matplotlib import pyplot as plt 
 from matplotlib import gridspec
-from sqlalchemy import false, true
+#from sqlalchemy import false, true
 import streamlit as st 
 
 st.title('Aplicacion de prueba')
